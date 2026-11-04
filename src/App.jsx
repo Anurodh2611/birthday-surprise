@@ -5,10 +5,10 @@ import confetti from 'canvas-confetti';
 // ⚙️ SURPRISE CONFIGURATION
 // Customize these values for your friend!
 // ==========================================
-const friendName = "CHARIS";
-const friendPhoto = "char.jpeg";
+const friendName = "AKSHAYA";
+const friendPhoto = "ak.jpeg";
 const birthdayMessage =
-  "Happiest Birthday Daaaaa!! May God Almighty bless thee abundantly and may you prosper whithersoever you go. keep going and take care of yourself. Thank you for everything. Stay amazing and keep being you. ❤️";
+  "Happiest Birthday Machi!! May God Almighty bless you abundantly and may you prosper whithersoever you go. keep going and take care of yourself. Thank you for everything. Stay amazing and keep being you. ❤️";
 const birthdaySong = "/happy-birthday.mp3";
 
 // ==========================================
